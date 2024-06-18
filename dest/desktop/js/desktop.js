@@ -31,5 +31,6 @@
     console.log(nestedObject);
     alert(message);
     alert(anotherMessage);
+    alert('end of code');
   });
 })();
